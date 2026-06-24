@@ -97,5 +97,5 @@ jupyter notebook olist_ecommerce_analysis.ipynb
 ## 👤 Author
 
 **Opeyemi Ogunbona** — Junior Data Scientist  
-[LinkedIn](https://www.linkedin.com/in/opeyemi-ogunbona-29a45a231/) · [GitHub](https://github.com/opeyemi-ogunbona)
+[LinkedIn](https://www.linkedin.com/in/opeyemi-ogunbona-29a45a231/) · [GitHub](https://github.com/Damilola308)
 
